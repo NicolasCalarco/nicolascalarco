@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Banco Nación**
 
-- 👯 I’m looking to collaborate on **Contarg**
+- 👯 I’m co-founder of **Contarg**
 
 - 👨‍💻 All of my projects are available at [github.com/nicolascalarco](github.com/nicolascalarco)
 
