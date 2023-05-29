@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nicolascalarco&label=Profile%20views&color=0e75b6&style=flat" alt="nicolascalarco" /> </p>
 
-- 🔭 I’m currently working on **Banco Nación**
+- 🔭 I’m currently working on **Mindden**
 
 - 👯 I’m co-founder of **Contarg**
 
@@ -11,7 +11,6 @@
 
 - 💬 Ask me about **Powerbi, GCP, Azure, SQL and more.**
 
-- 📫 How to reach me **nicolas.calarco@contarg.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
